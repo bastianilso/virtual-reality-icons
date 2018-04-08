@@ -38,7 +38,7 @@ Whether the headset can provide image of the outside world when worn.
 How wide a field of view the VR headset provides.
 
  * `Wide Field of View:` The user can see widely.
- * `Narrow Field of View:` The user can see narrowly (a very narrow view could fx be feel like wearing horse blinds).
+ * `Narrow Field of View:` The user can see narrowly (a very narrow view could fx feel like wearing horse blinds).
 
 ### Head Tracking
 The headset's ability to track motion of the user's head and facial features.
@@ -48,22 +48,22 @@ The headset's ability to track motion of the user's head and facial features.
  * `Eye Tracking:` The headset is capable of tracking eye movement and dilation while worn.
  
 ### VR Hand Controller(s)
-How the user's ability to control the VR system using one or both hands.
+The user's ability to control the VR system using one or both hands.
 
  * `Button-based hand control:` The user controls the VR system using input from fx a gamepad or joystick.
  * `Wand-based control:` The user controls the VR system using a wand which is tracked by its position and rotation (6 Degrees of Freedom).
- * `Wand-based control (Rotational only):` The user controls the VR system using a wand which is tracked by its rotation (3 Degrees of Freedom).
+ * `Wand-based control (Rotational only):` The user controls the VR system using a wand which is tracked only by its rotation (3 Degrees of Freedom).
  * `Free-hand control:` The user controls the VR system using free movement of their hands.
  * `Free-hand and Finger control:` The user controls the VR system using free movement of their hands and fingers.
  * `One-handed control:` The user controls the VR system by wielding a controller in one hand.
- * `Two-handed control:` The user controls the VR system by wielding a controller in both hands.
+ * `Two-handed control:` The user controls the VR system by wielding controllers in both hands.
 
 ### VR Environment Tracking
 How signals are sent between the sensors and controllers (if any), to track the user's actions.
 
- * `Emitting Sensor Tower:` User actions are tracked through sensors in the environment emitting signals to track passive controllers.
+ * `Emitting Sensor Tower:` User actions are tracked through sensors in the environment which emit signals to track passive controllers.
  * `Emitting Controller:` User actions are tracked through controllers which emit signals to passive sensors.
- * `Emitting VR Headset:` User actions are tracked through sensors on the VR headset emitting signals to track passive controllers.
+ * `Emitting VR Headset:` User actions are tracked through sensors on the VR headset which emit signals to track passive controllers.
 
 ### VR Environment Setup
 How many sensor towers in the real world are set up to track user actions.
@@ -76,18 +76,18 @@ How many sensor towers in the real world are set up to track user actions.
 ### VR Experiences
 These icons are used to describe the difference between virtual reality based on 360° Imagery and real-time rendered 3d worlds.
 
- * `360° Imagery-based VR:` This is fx 360° photos, 360° Pre-rendered visualizations or 360° video. They allow user head rotation but restrict head movement and position (this is a bit like having a sphere stuck on your head).
+ * `360° Imagery-based VR:` This is fx 360° photos, 360° Pre-rendered visualizations or 360° video. They allow user head rotation but restrict head movement and position (the experience is like having a sphere stuck on your head).
  * `Real-time 3D-based VR:` Real-time rendered 3D worlds provide an unlimited virtual environment where users can freely move as they would in the real world (to the extend that the VR system allows them to).
- * `Seated Experience (with blinders):` A real-time rendered 3D world with which is experienced while sitting down and with partial rotational freedom.
+ * `Seated Experience (with blinders):` A real-time rendered 3D world which is experienced while sitting down and with partial rotational freedom.
 
 ### Movement in VR
 Illustrations of different ways you can move in the virtual environment.
 
  * `Walking:` Either by doing so in the real world or simulated via input from a controller.
- * `Sliding:` Moving your position while remaining fixed to the ground.
- * `Flying:` Moving yourself in any direction of the virtual world.
- * `Teleporting:` Changing your absolute position from one coordinate to another.
- * `Driving a Virtual Vehicle:` Moving yourself by controlling a virtual vehicle.
+ * `Sliding:` Moving your virtual position while remaining fixed to the ground.
+ * `Flying:` Moving your virtual position in any direction of the virtual world.
+ * `Teleporting:` Changing your absolute virtual position from one coordinate to another.
+ * `Driving a Virtual Vehicle:` Moving your virtual position by controlling a virtual vehicle.
  
 
 ### Misc
