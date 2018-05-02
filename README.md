@@ -1,6 +1,7 @@
 # Virtual Reality Icons (2017.4.8)
 
 This icon set is intended for describing VR systems, designed for research at Aalborg University and made available under Creative Commons Attribution 4.0 License.
+https://creativecommons.org/licenses/by/4.0/
 
 The icon set is divided into the following categories:
 
